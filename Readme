@@ -4,8 +4,14 @@ Purpose
 This project aims to determine whether a vine is healthy or affected by fungi using a Convolutional Neural Network (CNN). It is a small activity designed to help us understand CNNs and their real-world applications.
 
 Data:
-We will be using a UCI Dataset[An eye on the vine - a dataset for fungi segmentation in microscopic vine wood images](https://archive.ics.uci.edu/dataset/966/an+eye+on+the+vine+-+a+dataset+for+fungi+segmentation+in+microscopic+vine+wood+images), for working this practice would also like any suggestions and upgrades we can further make.
+We will use a UCI Dataset[An eye on the vine - a dataset for fungi segmentation in microscopic vine wood images] for this practice. We would also like any suggestions and upgrades we can make further.
 
 Objective  
 - Train a CNN model to classify vines as healthy or unhealthy based on image data.  
 - Learn how to implement and deploy CNN-based image classification models.
+
+We plan on further increasing efficiency and providing aid for companies like Abundant Robotics, Blue River Technologies, and many others that use robotics and are trained with data for crop harvesting.
+
+Having automated machines working can highly cut down on labour costs and provide efficient 24/7 care for crops, but it also requires a lot of training data and any possible verification for vine health.
+
+So, we aim to add that one feature to the robots and make them complete caretakers of the crops.
