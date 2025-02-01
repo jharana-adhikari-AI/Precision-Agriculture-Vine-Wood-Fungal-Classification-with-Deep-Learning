@@ -3,6 +3,9 @@ VineWoodFungiSegmentation
 Purpose  
 This project aims to determine whether a vine is healthy or affected by fungi using a Convolutional Neural Network (CNN). It is a small activity designed to help us understand CNNs and their real-world applications.
 
+Data:
+We will be using a UCI Dataset[An eye on the vine - a dataset for fungi segmentation in microscopic vine wood images](https://archive.ics.uci.edu/dataset/966/an+eye+on+the+vine+-+a+dataset+for+fungi+segmentation+in+microscopic+vine+wood+images), for working this practice would also like any suggestions and upgrades we can further make.
+
 Objective  
 - Train a CNN model to classify vines as healthy or unhealthy based on image data.  
 - Learn how to implement and deploy CNN-based image classification models.
