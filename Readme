@@ -1,5 +1,7 @@
 # VineWoodFungiSegmentation
+## Purpose
+This project aims to determine whether a vine is healthy or affected by fungi using a Convolutional Neural Network (CNN). It is a small activity designed to help us understand CNNs and their real-world applications.
 
-Find whether vine is healthy or not
-
-This a small activity we are doing in lue of learning how a CNN works and how we can program it to use in real-world applications
+## Objective
+Based on image data, train a CNN model to classify vines as healthy or unhealthy.
+Learn how to implement and deploy CNN-based image classification models.
