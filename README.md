@@ -1,4 +1,4 @@
-# VineWoodFungiSegmentation
+# Precision Agriculture: Vine Wood Fungal Classification with Deep Learning
 
 ## Problem Statement
 Modern agriculture is rapidly evolving, with robotics and AI playing a crucial role in optimizing crop maintenance and harvesting. However, a major challenge in vine cultivation is the early identification of fungal infections, which can significantly impact yield and quality.
